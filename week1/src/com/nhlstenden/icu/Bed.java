@@ -1,3 +1,8 @@
+package com.nhlstenden.icu;
+
+import com.nhlstenden.device.Device;
+import com.nhlstenden.patient.Patient;
+
 import java.util.ArrayList;
 
 public class Bed

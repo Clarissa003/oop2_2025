@@ -1,3 +1,7 @@
+package com.nhlstenden.device;
+
+import com.nhlstenden.device.Device;
+
 public class HeartMonitor extends Device
 {
     public HeartMonitor(int serialNumber, int energyConsumptionKwh)

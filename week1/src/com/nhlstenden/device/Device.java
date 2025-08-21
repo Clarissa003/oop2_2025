@@ -1,3 +1,7 @@
+package com.nhlstenden.device;
+
+import com.nhlstenden.patient.Patient;
+
 public abstract class Device
 {
     private int serialNumber;

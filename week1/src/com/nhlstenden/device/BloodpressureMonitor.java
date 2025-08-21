@@ -1,3 +1,5 @@
+package com.nhlstenden.device;
+
 public class BloodpressureMonitor extends Device
 {
     public BloodpressureMonitor(int serialNumber, int energyConsumptionKwh)

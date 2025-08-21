@@ -1,3 +1,7 @@
+package com.nhlstenden.icu;
+
+import com.nhlstenden.icu.Bed;
+
 import java.util.ArrayList;
 
 public class ICU
